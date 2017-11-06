@@ -1,9 +1,9 @@
-# ![alt text](img/lotussm.png)  Uge 1:  HTTP og Java Servlets
+# Uge 1:  HTTP og Java Servlets
 Læsning: Head First with Servlet and JSP  
 
 
 
-##Browsere og HTML, CSS, JS - en reminder
+## Browsere og HTML, CSS, JS - en reminder
 - Hvad er HTML
 - Hvad er CSS
 - Hvad er JS
@@ -23,7 +23,7 @@ See her for [mere info](https://www.tutorialspoint.com/html/html_basic_tags.htm)
 
 
 
-##HTTP
+## HTTP
 ![alt](img/internet.png)
 [Klik her for materiale om HTTP](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)  
 
@@ -40,7 +40,7 @@ Kig på Chrome developer tools -> network. Se hvad der bliver sendt med når vi 
 [Servlet tutorial](http://www.tutorialspoint.com/servlets/):   
 (read the sections from 'home' to 'http codes')  <br><br>
 - The architecture (client server with HTTP, POST and GET)  
-  - Look at dev. tools. i chrome to see what is communicated  between client and Server.
+  - Look at dev. tools. in chrome to see what is communicated  between client and Server.
 - The anatomy of a java servlet  
   - url annotationen
   - DoPost() and DoGet()  
